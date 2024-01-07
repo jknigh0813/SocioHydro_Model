@@ -7,10 +7,10 @@ This repository contains the following:
 * DDS_Wrapper.R: integrates Socio-hydrological model into the Dynamically Dimensioned Search (DDS) algorithm of Tolson & Shoemaker (2007). 
 * NSE.R: computes Nash Sutcliffe Efficiency 
 * RMSE.R: computes Root Mean Square Error
-
-SocioHydroModel_Housing_ITS.R : socio-hydrological model of Poudel et al. (2023) that assumes Interrupted Time Series (ITS) recovery of housing values post-flood
-SocioHydroModel_Housing_Krecovery.R : socio-hydrological model of Poudel et al. (2023) that assumes K shaped recovery of housing values post-flood
-SocioHydroModel_Housing_Sigmoid.R : socio-hydrological model of Poudel et al. (2023) that assumes Sigmoidal recovery of housing values post-flood
+* SocioHydroModel_Housing_ITS.R : socio-hydrological model of Poudel et al. (2023) that assumes Interrupted Time Series (ITS) recovery of housing values post-flood
+* SocioHydroModel_Housing_Krecovery.R : socio-hydrological model of Poudel et al. (2023) that assumes K shaped recovery of housing values post-flood
+*
+* SocioHydroModel_Housing_Sigmoid.R : socio-hydrological model of Poudel et al. (2023) that assumes Sigmoidal recovery of housing values post-flood
 
 References:
 Poudel, S., Caridad, C., Elliott, R., & Knighton, J. (2023). Housing market dynamics of the post-Sandy Hudson estuary, Long Island Sound, and New Jersey coastline are explained by NFIP participation. Environmental Research Letters, 18(9), 094009.
